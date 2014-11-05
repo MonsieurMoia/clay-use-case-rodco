@@ -485,7 +485,7 @@ FOOTER
 
 footer {
 background-color: #fff;
-  background-image: url({3vot}/assets/apps.jpg);
+ /* background-image: url({3vot}/assets/apps.jpg);*/
   background-repeat: no-repeat;
   -webkit-background-size: 55% auto;
   background-size: 47em auto;
